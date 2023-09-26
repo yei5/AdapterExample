@@ -5,8 +5,7 @@ import model.round.RoundHole;
 import model.round.RoundPeg;
 import model.square.SquarePeg;
 
-
-
+//Taken from https://refactoring.guru/design-patterns/adapter/java/example
 
 public class Main {
     public static void main(String[] args) {
